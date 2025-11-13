@@ -1,0 +1,38 @@
+{
+  "model_type": "gradient_boosting",
+  "train_metrics": {
+    "mae": 14.260734811874563,
+    "rmse": 49.021494326525946,
+    "r2": 0.9999263383198952
+  },
+  "test_metrics": {
+    "mae": 1588.6511123939904,
+    "rmse": 10821.25527672117,
+    "r2": 0.8006700886756384
+  },
+  "train_size": 334233,
+  "test_size": 83559,
+  "features": [
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume",
+    "bollinger_bands_lower",
+    "bollinger_bands_middle",
+    "bollinger_bands_upper",
+    "ema_12",
+    "ema_26",
+    "macd_histogram",
+    "macd_macd",
+    "macd_signal",
+    "rsi",
+    "sma_20",
+    "sma_50",
+    "ticker_encoded",
+    "price_change_1d",
+    "price_change_5d",
+    "volume_ma_ratio"
+  ],
+  "trained_at": "2025-11-04T16:44:55.974352"
+}

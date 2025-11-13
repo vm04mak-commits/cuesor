@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "v1",
+      "created_at": "2025-11-04T14:30:57.641514",
+      "model_type": "GradientBoostingRegressor",
+      "metrics": {
+        "test_r2": 0.9581608494475915,
+        "test_mae": 1.958606669186385,
+        "test_rmse": 2.8511176433952206
+      }
+    }
+  ],
+  "latest": "v1",
+  "production": null
+}
