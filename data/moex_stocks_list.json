@@ -1,0 +1,1297 @@
+[
+  {
+    "ticker": "ABIO",
+    "shortname": "iАРТГЕН ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "ABRD",
+    "shortname": "АбрауДюрсо",
+    "lotsize": 10
+  },
+  {
+    "ticker": "AFKS",
+    "shortname": "Система ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "AFLT",
+    "shortname": "Аэрофлот",
+    "lotsize": 10
+  },
+  {
+    "ticker": "AKRN",
+    "shortname": "Акрон",
+    "lotsize": 1
+  },
+  {
+    "ticker": "ALRS",
+    "shortname": "АЛРОСА ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "AMEZ",
+    "shortname": "АшинскийМЗ",
+    "lotsize": 100
+  },
+  {
+    "ticker": "APRI",
+    "shortname": "АПРИ",
+    "lotsize": 10
+  },
+  {
+    "ticker": "APTK",
+    "shortname": "Аптеки36и6",
+    "lotsize": 10
+  },
+  {
+    "ticker": "AQUA",
+    "shortname": "ИНАРКТИКА",
+    "lotsize": 1
+  },
+  {
+    "ticker": "ARSA",
+    "shortname": "Арсагера",
+    "lotsize": 100
+  },
+  {
+    "ticker": "ASSB",
+    "shortname": "АстрЭнСб",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "ASTR",
+    "shortname": "Астра ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "AVAN",
+    "shortname": "Авангрд-ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "BANE",
+    "shortname": "Башнефт ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "BANEP",
+    "shortname": "Башнефт ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "BELU",
+    "shortname": "НоваБев ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "BISVP",
+    "shortname": "БашИнСв ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "BLNG",
+    "shortname": "Белон ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "BRZL",
+    "shortname": "БурЗолото",
+    "lotsize": 1
+  },
+  {
+    "ticker": "BSPB",
+    "shortname": "БСП ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "BSPBP",
+    "shortname": "БСП ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "CARM",
+    "shortname": "СТГ",
+    "lotsize": 100
+  },
+  {
+    "ticker": "CBOM",
+    "shortname": "МКБ ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "CHGZ",
+    "shortname": "РН-ЗапСиб",
+    "lotsize": 10
+  },
+  {
+    "ticker": "CHKZ",
+    "shortname": "ЧКПЗ ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "CHMF",
+    "shortname": "СевСт-ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "CHMK",
+    "shortname": "ЧМК ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "CNRU",
+    "shortname": "Циан",
+    "lotsize": 1
+  },
+  {
+    "ticker": "CNTL",
+    "shortname": "Телеграф",
+    "lotsize": 100
+  },
+  {
+    "ticker": "CNTLP",
+    "shortname": "Телеграф-п",
+    "lotsize": 100
+  },
+  {
+    "ticker": "DATA",
+    "shortname": "iАренадата",
+    "lotsize": 1
+  },
+  {
+    "ticker": "DELI",
+    "shortname": "iКаршеринг",
+    "lotsize": 1
+  },
+  {
+    "ticker": "DIAS",
+    "shortname": "iДиасофт",
+    "lotsize": 1
+  },
+  {
+    "ticker": "DIOD",
+    "shortname": "ЗаводДИОД",
+    "lotsize": 100
+  },
+  {
+    "ticker": "DVEC",
+    "shortname": "ДЭК ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "DZRD",
+    "shortname": "ДонскЗР",
+    "lotsize": 1
+  },
+  {
+    "ticker": "DZRDP",
+    "shortname": "ДонскЗР п",
+    "lotsize": 1
+  },
+  {
+    "ticker": "EELT",
+    "shortname": "ЕвроЭлтех",
+    "lotsize": 10
+  },
+  {
+    "ticker": "ELFV",
+    "shortname": "ЭЛ5Энер ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "ELMT",
+    "shortname": "Элемент",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "ENPG",
+    "shortname": "ЭН+ГРУП ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "ETLN",
+    "shortname": "ЭталонГруп",
+    "lotsize": 1
+  },
+  {
+    "ticker": "EUTR",
+    "shortname": "ЕвроТранс",
+    "lotsize": 1
+  },
+  {
+    "ticker": "FEES",
+    "shortname": "Россети",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "FESH",
+    "shortname": "ДВМП ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "FIXR",
+    "shortname": "Фикс Прайс",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "FLOT",
+    "shortname": "Совкомфлот",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GAZA",
+    "shortname": "ГАЗ ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GAZAP",
+    "shortname": "ГАЗ ап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GAZC",
+    "shortname": "ГАЗКОН-ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GAZP",
+    "shortname": "ГАЗПРОМ ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GAZS",
+    "shortname": "ГАЗ-сервис",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GAZT",
+    "shortname": "ГАЗ-Тек ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GCHE",
+    "shortname": "ЧеркизГ-ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "GECO",
+    "shortname": "iГЕНЕТИКО",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GEMA",
+    "shortname": "iММЦБ ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GEMC",
+    "shortname": "МКПАО ЮМГ",
+    "lotsize": 1
+  },
+  {
+    "ticker": "GLRX",
+    "shortname": "ГЛОРАКС",
+    "lotsize": 1
+  },
+  {
+    "ticker": "GMKN",
+    "shortname": "ГМКНорНик",
+    "lotsize": 10
+  },
+  {
+    "ticker": "GTRK",
+    "shortname": "ГТМ ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "HEAD",
+    "shortname": "Хэдхантер",
+    "lotsize": 1
+  },
+  {
+    "ticker": "HIMCP",
+    "shortname": "Химпром ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "HNFG",
+    "shortname": "ХЭНДЕРСОН",
+    "lotsize": 1
+  },
+  {
+    "ticker": "HYDR",
+    "shortname": "РусГидро",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "IGST",
+    "shortname": "Ижсталь2ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "IGSTP",
+    "shortname": "Ижсталь ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "IRAO",
+    "shortname": "ИнтерРАОао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "IRKT",
+    "shortname": "Яковлев-3",
+    "lotsize": 100
+  },
+  {
+    "ticker": "IVAT",
+    "shortname": "iИВА",
+    "lotsize": 1
+  },
+  {
+    "ticker": "JNOS",
+    "shortname": "Славн-ЯНОС",
+    "lotsize": 100
+  },
+  {
+    "ticker": "JNOSP",
+    "shortname": "Слав-ЯНОСп",
+    "lotsize": 100
+  },
+  {
+    "ticker": "KAZT",
+    "shortname": "Куйбазот",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KAZTP",
+    "shortname": "Куйбазот-п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KBSB",
+    "shortname": "ТНСэКубань",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KCHE",
+    "shortname": "КамчатЭ ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "KCHEP",
+    "shortname": "КамчатЭ ап",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "KFBA",
+    "shortname": "ИНГРАД ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "KGKC",
+    "shortname": "КурганГКао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KGKCP",
+    "shortname": "КурганГКап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KLSB",
+    "shortname": "КалужскСК",
+    "lotsize": 100
+  },
+  {
+    "ticker": "KLVZ",
+    "shortname": "Кристалл",
+    "lotsize": 100
+  },
+  {
+    "ticker": "KMAZ",
+    "shortname": "КАМАЗ",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KMEZ",
+    "shortname": "КМЗ",
+    "lotsize": 1
+  },
+  {
+    "ticker": "KOGK",
+    "shortname": "КоршГОК ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "KRKN",
+    "shortname": "СаратНПЗ",
+    "lotsize": 1
+  },
+  {
+    "ticker": "KRKNP",
+    "shortname": "СаратНПЗ-п",
+    "lotsize": 1
+  },
+  {
+    "ticker": "KRKOP",
+    "shortname": "ТКЗКК ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "KROT",
+    "shortname": "КрасОкт-ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KROTP",
+    "shortname": "КрасОкт-1п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KRSB",
+    "shortname": "Красэсб ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "KRSBP",
+    "shortname": "Красэсб ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "KUZB",
+    "shortname": "КузнецкийБ",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "KZOS",
+    "shortname": "ОргСинт ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "KZOSP",
+    "shortname": "ОргСинт ап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "LEAS",
+    "shortname": "Европлан",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LENT",
+    "shortname": "Лента ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LIFE",
+    "shortname": "Фармсинтез",
+    "lotsize": 100
+  },
+  {
+    "ticker": "LKOH",
+    "shortname": "ЛУКОЙЛ",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LMBZ",
+    "shortname": "Ламбумиз",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LNZL",
+    "shortname": "Лензолото",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LNZLP",
+    "shortname": "Лензол. ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LPSB",
+    "shortname": "ЛЭСК ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "LSNG",
+    "shortname": "РСетиЛЭ",
+    "lotsize": 100
+  },
+  {
+    "ticker": "LSNGP",
+    "shortname": "РСетиЛЭ-п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "LSRG",
+    "shortname": "ЛСР ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "LVHK",
+    "shortname": "Левенгук",
+    "lotsize": 100
+  },
+  {
+    "ticker": "MAGE",
+    "shortname": "МагадЭн ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "MAGEP",
+    "shortname": "МагадЭн ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "MAGN",
+    "shortname": "ММК",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MBNK",
+    "shortname": "МТС Банк",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MDMG",
+    "shortname": "MDMG-ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MFGS",
+    "shortname": "Мегион-ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MFGSP",
+    "shortname": "Мегион-ап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MGKL",
+    "shortname": "МГКЛ",
+    "lotsize": 100
+  },
+  {
+    "ticker": "MGNT",
+    "shortname": "Магнит ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MGNZ",
+    "shortname": "СМЗ-ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MGTS",
+    "shortname": "МГТС-5ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MGTSP",
+    "shortname": "МГТС-4ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MISB",
+    "shortname": "ТНСэнМарЭл",
+    "lotsize": 100
+  },
+  {
+    "ticker": "MISBP",
+    "shortname": "ТНСэМаЭл-п",
+    "lotsize": 100
+  },
+  {
+    "ticker": "MOEX",
+    "shortname": "МосБиржа",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MRKC",
+    "shortname": "РоссЦентр",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "MRKK",
+    "shortname": "Россети СК",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MRKP",
+    "shortname": "РСетиЦП ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "MRKS",
+    "shortname": "РсетСиб ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "MRKU",
+    "shortname": "Россети Ур",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "MRKV",
+    "shortname": "РсетВол ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "MRKY",
+    "shortname": "РоссЮг ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "MRKZ",
+    "shortname": "РСетиСЗ ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "MRSB",
+    "shortname": "МордЭнСб",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "MSNG",
+    "shortname": "+МосЭнерго",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "MSRS",
+    "shortname": "РСетиМР ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "MSTT",
+    "shortname": "Мостотрест",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MTLR",
+    "shortname": "Мечел ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "MTLRP",
+    "shortname": "Мечел ап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MTSS",
+    "shortname": "МТС-ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "MVID",
+    "shortname": "М.видео",
+    "lotsize": 1
+  },
+  {
+    "ticker": "NAUK",
+    "shortname": "iНПОНаука",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NFAZ",
+    "shortname": "НЕФАЗ",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NKHP",
+    "shortname": "НКХП ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NKNC",
+    "shortname": "НКНХ ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NKNCP",
+    "shortname": "НКНХ ап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NKSH",
+    "shortname": "Нижкамшина",
+    "lotsize": 100
+  },
+  {
+    "ticker": "NLMK",
+    "shortname": "НЛМК ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NMTP",
+    "shortname": "НМТП ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "NNSB",
+    "shortname": "ТНСэнНН ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "NNSBP",
+    "shortname": "ТНСэнНН ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "NSVZ",
+    "shortname": "iНаукаСвяз",
+    "lotsize": 10
+  },
+  {
+    "ticker": "NVTK",
+    "shortname": "Новатэк ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "OGKB",
+    "shortname": "ОГК-2 ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "OKEY",
+    "shortname": "OKEY-гдр",
+    "lotsize": 10
+  },
+  {
+    "ticker": "OMZZP",
+    "shortname": "ОМЗ-ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "OZON",
+    "shortname": "Озон",
+    "lotsize": 1
+  },
+  {
+    "ticker": "OZPH",
+    "shortname": "iОзонФарм",
+    "lotsize": 10
+  },
+  {
+    "ticker": "PAZA",
+    "shortname": "ПавлАвт ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "PHOR",
+    "shortname": "ФосАгро ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "PIKK",
+    "shortname": "ПИК ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "PLZL",
+    "shortname": "Полюс",
+    "lotsize": 1
+  },
+  {
+    "ticker": "PMSB",
+    "shortname": "ПермьЭнСб",
+    "lotsize": 10
+  },
+  {
+    "ticker": "PMSBP",
+    "shortname": "ПермьЭнС-п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "POSI",
+    "shortname": "iПозитив",
+    "lotsize": 1
+  },
+  {
+    "ticker": "PRFN",
+    "shortname": "ТЕПЛАНТ ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "PRMB",
+    "shortname": "Приморье",
+    "lotsize": 1
+  },
+  {
+    "ticker": "PRMD",
+    "shortname": "iПРОМОМЕД",
+    "lotsize": 1
+  },
+  {
+    "ticker": "QIWI",
+    "shortname": "iNanduQPLC",
+    "lotsize": 1
+  },
+  {
+    "ticker": "RAGR",
+    "shortname": "Русагро",
+    "lotsize": 1
+  },
+  {
+    "ticker": "RASP",
+    "shortname": "Распадская",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RBCM",
+    "shortname": "ГК РБК ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "RDRB",
+    "shortname": "РДБанк ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RENI",
+    "shortname": "Ренессанс",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RGSS",
+    "shortname": "РГС СК ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "RKKE",
+    "shortname": "ЭнергияРКК",
+    "lotsize": 1
+  },
+  {
+    "ticker": "RNFT",
+    "shortname": "РуссНфт ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "ROLO",
+    "shortname": "Русолово",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "ROSN",
+    "shortname": "Роснефть",
+    "lotsize": 1
+  },
+  {
+    "ticker": "ROST",
+    "shortname": "РОСИНТЕРао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RTGZ",
+    "shortname": "ГР Ростов",
+    "lotsize": 1
+  },
+  {
+    "ticker": "RTKM",
+    "shortname": "Ростел -ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RTKMP",
+    "shortname": "Ростел -ап",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RTSB",
+    "shortname": "ТНСэнРст",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "RTSBP",
+    "shortname": "ТНСэнРст-п",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "RUAL",
+    "shortname": "РУСАЛ ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RUSI",
+    "shortname": "ИКРУСС-ИНВ",
+    "lotsize": 10
+  },
+  {
+    "ticker": "RZSB",
+    "shortname": "РязЭнСб",
+    "lotsize": 100
+  },
+  {
+    "ticker": "SAGO",
+    "shortname": "СамарЭн-ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "SAGOP",
+    "shortname": "СамарЭн-ап",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "SARE",
+    "shortname": "СаратЭн-ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "SAREP",
+    "shortname": "СаратЭн-ап",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "SBER",
+    "shortname": "Сбербанк",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SBERP",
+    "shortname": "Сбербанк-п",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SELG",
+    "shortname": "Селигдар",
+    "lotsize": 10
+  },
+  {
+    "ticker": "SFIN",
+    "shortname": "ЭсЭфАй ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SGZH",
+    "shortname": "Сегежа",
+    "lotsize": 100
+  },
+  {
+    "ticker": "SIBN",
+    "shortname": "Газпрнефть",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SLEN",
+    "shortname": "Сахэнер ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "SMLT",
+    "shortname": "Самолет ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SNGS",
+    "shortname": "Сургнфгз",
+    "lotsize": 100
+  },
+  {
+    "ticker": "SNGSP",
+    "shortname": "Сургнфгз-п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "SOFL",
+    "shortname": "iСофтлайн",
+    "lotsize": 10
+  },
+  {
+    "ticker": "SPBE",
+    "shortname": "СПБ Биржа",
+    "lotsize": 1
+  },
+  {
+    "ticker": "STSB",
+    "shortname": "СтаврЭнСб",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "STSBP",
+    "shortname": "СтаврЭнСбп",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "SVAV",
+    "shortname": "СОЛЛЕРС",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SVCB",
+    "shortname": "Совкомбанк",
+    "lotsize": 100
+  },
+  {
+    "ticker": "SVET",
+    "shortname": "Светофор",
+    "lotsize": 1
+  },
+  {
+    "ticker": "SVETP",
+    "shortname": "Светофор п",
+    "lotsize": 1
+  },
+  {
+    "ticker": "T",
+    "shortname": "Т-Техно ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "TASB",
+    "shortname": "ТамбЭнСб",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "TASBP",
+    "shortname": "ТамбЭнСб-п",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "TATN",
+    "shortname": "Татнфт 3ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "TATNP",
+    "shortname": "Татнфт 3ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "TGKA",
+    "shortname": "ТГК-1",
+    "lotsize": 100000
+  },
+  {
+    "ticker": "TGKB",
+    "shortname": "ТГК-2",
+    "lotsize": 1000000
+  },
+  {
+    "ticker": "TGKBP",
+    "shortname": "ТГК-2 ап",
+    "lotsize": 100000
+  },
+  {
+    "ticker": "TGKN",
+    "shortname": "ТГК-14",
+    "lotsize": 100000
+  },
+  {
+    "ticker": "TNSE",
+    "shortname": "ТНСэнрг ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "TORS",
+    "shortname": "РСТомск ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "TORSP",
+    "shortname": "РСТомск ап",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "TRMK",
+    "shortname": "ТМК ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "TRNFP",
+    "shortname": "Транснф ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "TTLK",
+    "shortname": "Таттел. ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "TUZA",
+    "shortname": "ТЗА ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "UGLD",
+    "shortname": "ЮГК",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "UKUZ",
+    "shortname": "ЮжКузб. ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "UNAC",
+    "shortname": "iАвиастКао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "UNKL",
+    "shortname": "ЮУНК ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "UPRO",
+    "shortname": "Юнипро ао",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "URKZ",
+    "shortname": "УрКузница",
+    "lotsize": 1
+  },
+  {
+    "ticker": "USBN",
+    "shortname": "УралСиб ао",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "UTAR",
+    "shortname": "ЮТэйр ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "UWGN",
+    "shortname": "ОВК ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VEON-RX",
+    "shortname": "VEON",
+    "lotsize": 10
+  },
+  {
+    "ticker": "VGSB",
+    "shortname": "ВолгЭнСб",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "VGSBP",
+    "shortname": "ВолгЭнСб-п",
+    "lotsize": 1000
+  },
+  {
+    "ticker": "VJGZ",
+    "shortname": "Варьеган",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VJGZP",
+    "shortname": "Варьеган-п",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VKCO",
+    "shortname": "МКПАО \"ВК\"",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VLHZ",
+    "shortname": "ВХЗ-ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "VRSB",
+    "shortname": "ТНСэнВорон",
+    "lotsize": 10
+  },
+  {
+    "ticker": "VRSBP",
+    "shortname": "ТНСэнВор-п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "VSEH",
+    "shortname": "ВИ.ру",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VSMO",
+    "shortname": "ВСМПО-АВСМ",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VSYD",
+    "shortname": "ВыбСудЗ ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VSYDP",
+    "shortname": "ВыбСудЗ ап",
+    "lotsize": 1
+  },
+  {
+    "ticker": "VTBR",
+    "shortname": "ВТБ ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "WTCM",
+    "shortname": "ЦМТ ао",
+    "lotsize": 100
+  },
+  {
+    "ticker": "WTCMP",
+    "shortname": "ЦМТ ап",
+    "lotsize": 100
+  },
+  {
+    "ticker": "WUSH",
+    "shortname": "iВУШХолднг",
+    "lotsize": 1
+  },
+  {
+    "ticker": "X5",
+    "shortname": "КЦ ИКС 5",
+    "lotsize": 1
+  },
+  {
+    "ticker": "YAKG",
+    "shortname": "ЯТЭК ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "YDEX",
+    "shortname": "ЯНДЕКС",
+    "lotsize": 1
+  },
+  {
+    "ticker": "YKEN",
+    "shortname": "Якутскэнрг",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "YKENP",
+    "shortname": "Якутскэн-п",
+    "lotsize": 10000
+  },
+  {
+    "ticker": "YRSB",
+    "shortname": "ТНСэнЯр",
+    "lotsize": 10
+  },
+  {
+    "ticker": "YRSBP",
+    "shortname": "ТНСэнЯр-п",
+    "lotsize": 10
+  },
+  {
+    "ticker": "ZAYM",
+    "shortname": "Займер ао",
+    "lotsize": 10
+  },
+  {
+    "ticker": "ZILL",
+    "shortname": "ЗИЛ ао",
+    "lotsize": 1
+  },
+  {
+    "ticker": "ZVEZ",
+    "shortname": "ЗВЕЗДА ао",
+    "lotsize": 1000
+  }
+]
