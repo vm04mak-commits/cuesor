@@ -1,0 +1,235 @@
+{
+  "name": "Оптимизированный портфель",
+  "initial_cash": 1000000.0,
+  "cash": 29298.62700000005,
+  "positions": {
+    "SARE": {
+      "shares": 60732,
+      "avg_price": 0.509,
+      "current_price": 0.509
+    },
+    "MRSB": {
+      "shares": 224258,
+      "avg_price": 0.92,
+      "current_price": 0.92
+    },
+    "CARM": {
+      "shares": 24966,
+      "avg_price": 1.8325,
+      "current_price": 1.8325
+    },
+    "KLVZ": {
+      "shares": 4085,
+      "avg_price": 3.278,
+      "current_price": 3.278
+    },
+    "KCHEP": {
+      "shares": 187760,
+      "avg_price": 0.815,
+      "current_price": 0.815
+    },
+    "VGSBP": {
+      "shares": 8279,
+      "avg_price": 11.85,
+      "current_price": 11.85
+    },
+    "KRKOP": {
+      "shares": 1377,
+      "avg_price": 13.36,
+      "current_price": 13.36
+    },
+    "OKEY": {
+      "shares": 1161,
+      "avg_price": 31.0,
+      "current_price": 31.0
+    },
+    "SVETP": {
+      "shares": 725,
+      "avg_price": 31.8,
+      "current_price": 31.8
+    },
+    "OZON": {
+      "shares": 29,
+      "avg_price": 4135.0,
+      "current_price": 4135.0
+    },
+    "PMSBP": {
+      "shares": 115,
+      "avg_price": 332.2,
+      "current_price": 332.2
+    },
+    "ASSB": {
+      "shares": 14230,
+      "avg_price": 2.91,
+      "current_price": 2.91
+    },
+    "IVAT": {
+      "shares": 107,
+      "avg_price": 165.85,
+      "current_price": 165.85
+    },
+    "DZRD": {
+      "shares": 12,
+      "avg_price": 4975.0,
+      "current_price": 4975.0
+    },
+    "RZSB": {
+      "shares": 1681,
+      "avg_price": 32.68,
+      "current_price": 32.68
+    },
+    "MDMG": {
+      "shares": 11,
+      "avg_price": 1259.0,
+      "current_price": 1259.0
+    }
+  },
+  "history": [
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "SARE",
+      "shares": 60732,
+      "price": 0.509,
+      "cost": 30912.588,
+      "cash_after": 969087.412
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "MRSB",
+      "shares": 224258,
+      "price": 0.92,
+      "cost": 206317.36000000002,
+      "cash_after": 762770.052
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "CARM",
+      "shares": 24966,
+      "price": 1.8325,
+      "cost": 45750.195,
+      "cash_after": 717019.8570000001
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "KLVZ",
+      "shares": 4085,
+      "price": 3.278,
+      "cost": 13390.63,
+      "cash_after": 703629.2270000001
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "KCHEP",
+      "shares": 187760,
+      "price": 0.815,
+      "cost": 153024.4,
+      "cash_after": 550604.827
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "VGSBP",
+      "shares": 8279,
+      "price": 11.85,
+      "cost": 98106.15,
+      "cash_after": 452498.677
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "KRKOP",
+      "shares": 1377,
+      "price": 13.36,
+      "cost": 18396.719999999998,
+      "cash_after": 434101.95700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "OKEY",
+      "shares": 1161,
+      "price": 31.0,
+      "cost": 35991.0,
+      "cash_after": 398110.95700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "SVETP",
+      "shares": 725,
+      "price": 31.8,
+      "cost": 23055.0,
+      "cash_after": 375055.95700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "OZON",
+      "shares": 29,
+      "price": 4135.0,
+      "cost": 119915.0,
+      "cash_after": 255140.95700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "PMSBP",
+      "shares": 115,
+      "price": 332.2,
+      "cost": 38203.0,
+      "cash_after": 216937.95700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "ASSB",
+      "shares": 14230,
+      "price": 2.91,
+      "cost": 41409.3,
+      "cash_after": 175528.65700000006
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "IVAT",
+      "shares": 107,
+      "price": 165.85,
+      "cost": 17745.95,
+      "cash_after": 157782.70700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "DZRD",
+      "shares": 12,
+      "price": 4975.0,
+      "cost": 59700.0,
+      "cash_after": 98082.70700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "RZSB",
+      "shares": 1681,
+      "price": 32.68,
+      "cost": 54935.08,
+      "cash_after": 43147.62700000005
+    },
+    {
+      "date": "2025-11-03",
+      "action": "BUY",
+      "ticker": "MDMG",
+      "shares": 11,
+      "price": 1259.0,
+      "cost": 13849.0,
+      "cash_after": 29298.62700000005
+    }
+  ],
+  "created_at": "2025-11-03T00:33:04.122877",
+  "updated_at": "2025-11-03T00:33:04.267162"
+}
