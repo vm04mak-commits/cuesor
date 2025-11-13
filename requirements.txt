@@ -1,0 +1,41 @@
+# Investment AI Assistant - Dependencies
+
+# Core
+python>=3.8
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# API
+requests>=2.28.0
+
+# MOEX API
+moexalgo>=2.0.0
+
+# Portfolio Optimization
+scipy>=1.10.0
+
+# Deep Learning
+tensorflow>=2.12.0
+
+# Hyperparameter Tuning
+optuna>=3.0.0
+
+# Web API
+Flask>=2.3.0
+flask-cors>=4.0.0
+
+# Utilities
+python-dateutil>=2.8.0
+
+# Database (встроен в Python, не требует установки)
+# sqlite3
+

@@ -1,0 +1,39 @@
+{
+    "system": {
+        "name": "Investment AI Assistant",
+        "version": "0.1.0",
+        "log_level": "INFO"
+    },
+    "data": {
+        "moex_api_url": "https://iss.moex.com/iss",
+        "update_interval": 3600,
+        "cache_ttl": 86400
+    },
+    "analysis": {
+        "indicators": [
+            "SMA",
+            "EMA",
+            "RSI",
+            "MACD",
+            "BB"
+        ],
+        "default_period": 30
+    },
+    "predict": {
+        "model_type": "linear_regression",
+        "training_period": 365,
+        "prediction_horizon": 30
+    },
+    "report": {
+        "output_format": [
+            "html",
+            "pdf"
+        ],
+        "include_charts": true
+    },
+    "api": {
+        "host": "127.0.0.1",
+        "port": 8000,
+        "debug": false
+    }
+}
