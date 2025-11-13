@@ -1,7 +1,6 @@
 # Investment AI Assistant - Dependencies
 
-# Core
-python>=3.8
+
 
 # Data processing
 pandas>=1.5.0
